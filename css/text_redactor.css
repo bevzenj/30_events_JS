@@ -1,6 +1,13 @@
-.text {
+#text {
     margin: 0 auto;
     padding: 50px 0;
     font-size: 20px;
     width: 50%;
+}
+
+.text_area {
+    width: 100%;
+    font-size: inherit;
+    height: 60vh;
+    overflow: hidden;
 }
